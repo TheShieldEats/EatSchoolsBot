@@ -90,5 +90,4 @@ async def cmd(ctx):
     await bot.say(embed=embed)
     await bot.delete_message(ctx.message)
 
-bot.run("NTQ4ODA5Njk4NzA3NTA1MTUz.D2Wmfg.vqzQxRtSII4IVMHcYBJD-p0Ox0Q")
 client.run(str(os.environ.get("BOT_TOKEN")))
