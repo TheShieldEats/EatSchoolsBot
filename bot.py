@@ -1,4 +1,4 @@
- EAT By TheShield
+ #EAT By TheShield
 
 import discord
 from discord.ext import commands
