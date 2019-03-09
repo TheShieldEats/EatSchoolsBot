@@ -1,10 +1,12 @@
- #EAT By TheShield
+#EAT By TheShield
 
 import discord
 from discord.ext import commands
 from discord.ext.commands import Bot
 import asyncio
-import chalk
+import random
+import requests
+import os
 
 bot = commands.Bot(command_prefix='.')
 
