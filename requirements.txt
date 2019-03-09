@@ -6,4 +6,3 @@ Pymoe
 youtube_dl
 pip
 colorlog
-cffi --only-binary all; sys_platform == 'win32'
